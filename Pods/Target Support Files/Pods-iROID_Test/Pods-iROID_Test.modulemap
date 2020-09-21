@@ -1,0 +1,6 @@
+framework module Pods_iROID_Test {
+  umbrella header "Pods-iROID_Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
